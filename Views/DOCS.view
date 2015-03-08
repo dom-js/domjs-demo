@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' replicaid='48257E01000E2EB7'>
+<noteinfo noteid='176' unid='E0E7078E483C2F4C48257E010015FD60' sequence='9'>
+<created><datetime>20150307T120011,20+08</datetime></created>
+<modified><datetime>20150308T110603,48+08</datetime></modified>
+<revised><datetime>20150308T110603,47+08</datetime></revised>
+<lastaccessed><datetime>20150308T110603,48+08</datetime></lastaccessed>
+<addedtofile><datetime>20150307T120011,22+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=admin/O=domjs</name></updatedby>
+<wassignedby><name>CN=admin/O=domjs</name></wassignedby>
+<item name='$FormatNote' summary='true' sign='true'>
+<rawitemdata type='4'>
+AQAa9IMN/FkGvf4uDgABfiVI
+</rawitemdata></item>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>DOCS</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+KAAFABoAFQACAAkABAAkQ29uZmxpY3QkUkVGAAQABAAAAAgAZgADAA==
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+BgAAAABE
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQABAAEACAAAAFZDAAACAAEACgAKAFAAAQAACgAAAAAAAAAAAAICAAAAJDAjCgAAAAgAkgADAAEF
+AQAEAH9BMP8mAAEAAAABAQAJAQAACgEBDgoAAAEArSsBAAEAAQAAAAAAAAAAAFdDAQEACQAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAAAAAAAAAAAAAAABCABAAAAABAP///wAFAP///wABAAAA
+AAAAAAAAAAAAAAEA////AAEA////AAAAAQAAAAAAAQAAAAAAAQAAAAAAAAAIAAAAAAABAA==
+</rawitemdata></item>
+<item name='$FormFormula' summary='true' sign='true'><formula>format:=@UrlQueryString("OUTPUTFORMAT");
+@If(@LowerCase(format)!="xml";"$$JSONDOC";"$$XMLDOC")</formula></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Flags'><text>PY</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+
